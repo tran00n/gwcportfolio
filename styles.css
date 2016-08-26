@@ -1,0 +1,47 @@
+html {
+	background-color: white;
+}
+h1 {
+	text-align: center; 
+	font-family: calibri;
+	font-size: 300%;
+	color: #235789;
+}
+p{
+	font-family: calibri; 
+	font-size: 140%;
+	color: #303b8a;
+}
+a {
+	color:	#303b8a;
+	background-color: #E0EEEE;
+	text-align: center; 
+	font-family: calibri; 
+	font-size: 25px; 
+	padding: 13px;
+	border: 3px solid #303b8a;
+	font-weight: bold;
+}
+nav{
+	text-align: center;
+	border: 15px solid #E0EEEE;
+}
+
+.center {
+	margin: auto;
+	width: 50%;
+	padding: 70px;
+}
+
+.center2 {
+	margin: auto;
+	width: 50%;
+	padding: 20px;
+}
+
+.center3 {
+	margin: auto;
+	width: 50%;
+	padding-right: 15%;
+	padding-left:15%;
+}
